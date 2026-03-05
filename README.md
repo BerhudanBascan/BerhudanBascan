@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=berhudanbascan&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SiliconValley-Star&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   <h1>Berhudan Başcan</h1>
   <p><b>Software Engineer | Backend Architecture & Data-Driven Systems</b></p>
@@ -27,11 +27,10 @@ I am a mission-driven Software Engineer transitioning seamlessly between **Backe
 <br/>
 
 ## 🏆 GitHub Trophies (Live Data)
-*Bu bölüm senin GitHub üzerindeki commit, issue, PR ve repo verilerini otomatik çekerek seviyeni (S, A, B, C) kupalarla gösterir.*
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=berhudanbascan&theme=transparent&margin-w=15&column=7&no-frame=true&no-bg=true" alt="Berhudan's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SiliconValley-Star&theme=transparent&margin-w=15&column=7&no-frame=true&no-bg=true" alt="Berhudan's Trophies" />
   </a>
 </div>
 
@@ -80,14 +79,13 @@ I am a mission-driven Software Engineer transitioning seamlessly between **Backe
 <br/>
 
 ## 📌 Featured Work (Live Repositories)
-*Not: Aşağıdaki `repo=cleanerlab` kısımlarını kendi projelerinin gerçek isimleriyle değiştirirsen, projelerinin anlık yıldız (star) ve fork sayılarını GitHub'dan çekip burada şık bir kart olarak gösterecek.*
 
 <div align="center">
-  <a href="https://github.com/berhudanbascan/cleanerlab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berhudanbascan&repo=cleanerlab&theme=transparent&title_color=007ACC&text_color=8B949E&icon_color=007ACC&hide_border=true" width="48%" />
+  <a href="https://github.com/SiliconValley-Star/CleanerLab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiliconValley-Star&repo=CleanerLab&theme=transparent&title_color=007ACC&text_color=8B949E&icon_color=007ACC&hide_border=true" width="48%" />
   </a>
-  <a href="https://github.com/berhudanbascan/kimyalab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berhudanbascan&repo=kimyalab&theme=transparent&title_color=007ACC&text_color=8B949E&icon_color=007ACC&hide_border=true" width="48%" />
+  <a href="https://github.com/SiliconValley-Star/Kimyalab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiliconValley-Star&repo=Kimyalab&theme=transparent&title_color=007ACC&text_color=8B949E&icon_color=007ACC&hide_border=true" width="48%" />
   </a>
 </div>
 
@@ -98,16 +96,16 @@ I am a mission-driven Software Engineer transitioning seamlessly between **Backe
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=berhudanbascan&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E&icon_color=007ACC" alt="Berhudan's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SiliconValley-Star&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E&icon_color=007ACC" alt="Berhudan's GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berhudanbascan&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiliconValley-Star&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berhudanbascan&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E&icon_color=007ACC&ring=007ACC&fire=EA4335" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiliconValley-Star&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E&icon_color=007ACC&ring=007ACC&fire=EA4335" alt="GitHub Streak" width="100%"/>
 </div>
 
 <br/>

@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Berhudan Başcan</h1>
-  <p><b>Software Engineer | Backend, Full-Stack & Data-Driven Systems</b></p>
+  <a href="https://github.com/berhudanbascan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Berhudan+Başcan+👋;Software+Engineer;Backend,+Full-Stack+%26+Data-Driven;Building+Scalable+Systems;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+  </a>
+
+  <br/>
 
   <p>
     <a href="https://futurewavee.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-futurewavee.com-1E1E1E?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
@@ -59,8 +62,17 @@
 
 <h3 align="left">📈 Engineering Analytics</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berhudanbascan&show_icons=true&locale=en&layout=compact" alt="berhudanbascan" /></p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=berhudanbascan&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E&icon_color=007ACC" alt="Berhudan's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berhudanbascan&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berhudanbascan&show_icons=true&locale=en" alt="berhudanbascan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berhudanbascan&" alt="berhudanbascan" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berhudanbascan&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E&icon_color=007ACC&ring=007ACC&fire=EA4335" alt="GitHub Streak" />
+</div>

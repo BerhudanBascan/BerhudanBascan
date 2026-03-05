@@ -13,12 +13,12 @@
 
 <br/>
 
-### 👨‍💻 Quick Summary
+### Quick Summary
 
-- 🚀 Software Engineer focusing on scalable backend architectures and data systems.
-- 💼 Currently building SaaS platforms and enterprise applications at **Future Wave LLC**.
-- 📈 Exploring quantitative models, algorithmic trading, and data analysis.
-- 🌱 Continuously improving in **Machine Learning (PyTorch)**, **Django**, and advanced C++.
+-  Software Engineer focusing on scalable backend architectures and data systems.
+-  Currently building SaaS platforms and enterprise applications at **Future Wave LLC**.
+-  Exploring quantitative models, algorithmic trading, and data analysis.
+-  Continuously improving in **Machine Learning (PyTorch)**, **Django**, and advanced C++.
 
 <br/>
 

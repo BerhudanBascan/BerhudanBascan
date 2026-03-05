@@ -59,11 +59,8 @@
 
 <h3 align="left">📈 Engineering Analytics</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiliconValley-Star&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E&icon_color=007ACC" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiliconValley-Star&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E" alt="Top Languages" width="48%" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berhudanbascan&show_icons=true&locale=en&layout=compact" alt="berhudanbascan" /></p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiliconValley-Star&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E&icon_color=007ACC&ring=007ACC&fire=007ACC" alt="GitHub Streak" width="97%" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berhudanbascan&show_icons=true&locale=en" alt="berhudanbascan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berhudanbascan&" alt="berhudanbascan" /></p>

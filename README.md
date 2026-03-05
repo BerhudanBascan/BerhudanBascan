@@ -1,9 +1,8 @@
 <div align="center">
-  <a href="https://github.com/berhudanbascan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Berhudan+Başcan+👋;Software+Engineer;Backend,+Full-Stack+%26+Data-Driven;Building+Scalable+Systems;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
-  </a>
-
-  <br/>
+  <img src="https://komarev.com/ghpvc/?username=berhudanbascan&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+  <h1>Berhudan Başcan</h1>
+  <p><b>Software Engineer | Backend Architecture & Data-Driven Systems</b></p>
 
   <p>
     <a href="https://futurewavee.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-futurewavee.com-1E1E1E?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
@@ -14,11 +13,31 @@
 
 <br/>
 
-> **Mission-driven Software Engineer** with a strong foundation in backend architecture, data systems, and quantitative analysis. Currently building scalable SaaS platforms at **Future Wave LLC** and researching algorithmic trading models. Always focused on writing clean, efficient, and production-ready code.
+## 👨‍💻 Engineering Philosophy & Current Focus
+
+> *"Building scalable systems and optimizing data flows to create measurable business value."*
+
+I am a mission-driven Software Engineer transitioning seamlessly between **Backend/Full-Stack Development** and **Data-Focused Engineering**. I thrive in environments where complex problems require robust, production-ready solutions. 
+
+- 🚀 **Currently Building:** Comprehensive SaaS platforms and an Enterprise Personnel Tracking System using Next.js, Supabase, and Node.js at **Future Wave LLC**.
+- 📈 **Research & Data:** Exploring quantitative models, algorithmic trading strategies (Freqtrade), and real-time market data analysis using Python and Pandas.
+- ⚙️ **Core Competencies:** RESTful API Design, Microservices, Relational/NoSQL Database Architecture, and Data Preprocessing.
+- 🌱 **Always Learning:** Deepening my knowledge in **Machine Learning (PyTorch)** and advanced C++ integrations.
 
 <br/>
 
-<h3 align="left">⚡ Technical Arsenal</h3>
+## 🏆 GitHub Trophies (Live Data)
+*Bu bölüm senin GitHub üzerindeki commit, issue, PR ve repo verilerini otomatik çekerek seviyeni (S, A, B, C) kupalarla gösterir.*
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=berhudanbascan&theme=transparent&margin-w=15&column=7&no-frame=true&no-bg=true" alt="Berhudan's Trophies" />
+  </a>
+</div>
+
+<br/>
+
+## 🛠️ Technical Arsenal
 
 <table align="center" width="100%">
   <tr>
@@ -60,7 +79,21 @@
 
 <br/>
 
-<h3 align="left">📈 Engineering Analytics</h3>
+## 📌 Featured Work (Live Repositories)
+*Not: Aşağıdaki `repo=cleanerlab` kısımlarını kendi projelerinin gerçek isimleriyle değiştirirsen, projelerinin anlık yıldız (star) ve fork sayılarını GitHub'dan çekip burada şık bir kart olarak gösterecek.*
+
+<div align="center">
+  <a href="https://github.com/berhudanbascan/cleanerlab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berhudanbascan&repo=cleanerlab&theme=transparent&title_color=007ACC&text_color=8B949E&icon_color=007ACC&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/berhudanbascan/kimyalab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berhudanbascan&repo=kimyalab&theme=transparent&title_color=007ACC&text_color=8B949E&icon_color=007ACC&hide_border=true" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+## 📈 Engineering Analytics (Live Data)
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
@@ -74,5 +107,11 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berhudanbascan&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E&icon_color=007ACC&ring=007ACC&fire=EA4335" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berhudanbascan&theme=transparent&hide_border=true&title_color=007ACC&text_color=8B949E&icon_color=007ACC&ring=007ACC&fire=EA4335" alt="GitHub Streak" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Code is read much more often than it is written. Clean code is not a luxury; it's a necessity."</i>
 </div>

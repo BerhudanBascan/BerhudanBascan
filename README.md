@@ -5,7 +5,8 @@
   <p><b>Software Engineer | Backend, Full-Stack & Data-Driven Systems</b></p>
 
   <p>
-    <a href="https://futurewavee.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-futurewavee.com-1E1E1E?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://futurewavee.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-berhudanbascan.vercel.app-1E1E1E?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://futurewavee.com" target="_blank"><img src="https://img.shields.io/badge/For Collab-futurewavee.com-1E1E1E?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
     <a href="https://linkedin.com/in/berhudan-bascan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:berhudanbascan@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
